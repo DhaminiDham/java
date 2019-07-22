@@ -1,0 +1,7 @@
+hashmap1(product name,product category code)
+hasmap2(product name,price)
+
+input (product code,hike rate)
+if(hasmap1.containsKey(product code)
+{
+product=
